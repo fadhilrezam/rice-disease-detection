@@ -1,4 +1,4 @@
-Deep Learning Project (Image Classification) - Disease and Nutrient Deficiency Symptoms in Rice Plant
+# Deep Learning Project (Image Classification) - Disease and Nutrient Deficiency Symptoms in Rice Plant
 
 Hi. My name is Fadhil Reza Maulana. In this project, me and my teammate I (M.Naufal Aulia Adam) created an app called PeSen (Petani Senang). This app is used to predict what kind of disease and nutrient deficiency happens to a rice plant using Image Classification.
 
